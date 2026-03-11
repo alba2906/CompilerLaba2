@@ -72,7 +72,7 @@ Dictionary<int, string> dict = new Dictionary<int, string>();
 | Код | Тип лексемы | Пример |
 |----|-------------|--------|
 | 1 | целое без знака | 123 |
-| 2 | идентификатор | x, Dictionary |
+| 2 | идентификатор | Dictionary |
 | 3 | ключевое слово `new` | new |
 | 4 | ключевое слово `string` | string |
 | 5 | ключевое слово `int` | int |
