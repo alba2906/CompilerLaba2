@@ -65,7 +65,7 @@ Dictionary<int, string> dict = new Dictionary<int, string>();
 
 ```csharp
 { 3, "three" }
-
+```
 
 ## Перечень допустимых лексем
 
