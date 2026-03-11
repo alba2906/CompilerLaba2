@@ -125,7 +125,7 @@ new Dictionary<int, string>();
 
 Входная строка
 ```csharp
-| `Dictionary<int, string> My_dict1 = new Dictionary<int, string> { { 1, "one" } };` |
+Dictionary<int, string> My_dict1 = new Dictionary<int, string> { { 1, "one" } };
 ```
 
 | Код | Тип лексемы | Лексема |
@@ -172,7 +172,7 @@ new Dictionary<int, string>();
 
  Входная строка 
 ```csharp
-| `Dictionary<int, string> My_dict1 = new Dictionary<int, string> { { 1, @one } };` |
+Dictionary<int, string> My_dict1 = new Dictionary<int, string> { { 1, @one } };
 ```
 
 | Код | Тип лексемы | Лексема |
@@ -222,12 +222,11 @@ new Dictionary<int, string>();
 
  Входная программа 
 ```csharp
-| `Dictionary<int, string> My_dict1 = new Dictionary<int, string>` |
-| `{` |
-| `    { 1, "one" },` |
-| `    { 2, "two" },` |
-| `    { 3, "three" }` |
-| `};` |
+Dictionary<int, string> My_dict1 = new Dictionary<int, string> {
+    { 1, "one" },
+    { 2, "two" },
+    { 3, "three" }
+};
 ```
 
 | Код | Тип лексемы | Лексема |
