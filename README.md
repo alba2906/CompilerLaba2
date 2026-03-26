@@ -166,6 +166,7 @@ Dictionary<int, string> My_dict1 = new Dictionary<int, string> { { 1, "one" } };
 | 13 | символ | } | строка 1, 79-79 |
 | 14 | конец оператора | ; | строка 1, 80-80 |
 ---
+<img width="863" height="488" alt="image" src="https://github.com/user-attachments/assets/3a44e3ce-cc78-488f-9237-4a7b6e9ec336" />
 
 ### 2. Строка с недопустимым символом
 
