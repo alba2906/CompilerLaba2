@@ -166,7 +166,8 @@ Dictionary<int, string> My_dict1 = new Dictionary<int, string> { { 1, "one" } };
 | 13 | символ | } | строка 1, 79-79 |
 | 14 | конец оператора | ; | строка 1, 80-80 |
 ---
-<img width="863" height="488" alt="image" src="https://github.com/user-attachments/assets/3a44e3ce-cc78-488f-9237-4a7b6e9ec336" />
+<img width="1157" height="875" alt="image" src="https://github.com/user-attachments/assets/4ef38198-ad1b-42bd-b90d-f2bc412f6d29" />
+
 
 ### 2. Строка с недопустимым символом
 
@@ -215,6 +216,7 @@ Dictionary<int, string> My_dict1 = new Dictionary<int, string> { { 1, @one } };
 | 14 | конец оператора | ; | строка 1, 79-79 |
 
 Недопустимый символ `@` должен вызывать лексическую ошибку с указанием точной позиции в тексте.
+<img width="1178" height="888" alt="image" src="https://github.com/user-attachments/assets/c28ff999-8dee-4079-9cbe-8e245c74a75e" />
 
 ---
 
@@ -285,6 +287,7 @@ Dictionary<int, string> My_dict1 = new Dictionary<int, string> {
 | 13 | символ | } | строка 6, 1-1 |
 | 14 | конец оператора | ; | строка 6, 2-2 |
 
+<img width="1169" height="997" alt="image" src="https://github.com/user-attachments/assets/520a6212-f3de-42d0-a6b6-1a82d34c8e6f" />
 
 ---
 
